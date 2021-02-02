@@ -1,8 +1,10 @@
 # Felipe Lôbo
 ### Biologist, Enthusiastic Programmer 
-
+<br>
+<br>
 # Coding Activity
-
+<br>
+<br>
 <center>
 	<table>
 		<tr>
