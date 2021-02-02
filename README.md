@@ -1,5 +1,5 @@
 # Felipe Lôbo
-### Biólogo, Programador entusiasta
+### Biologist, Enthusiastic Programmer 
 
 # Coding Activity
 
