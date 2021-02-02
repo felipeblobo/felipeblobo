@@ -2,7 +2,7 @@
 ### Biologist, Enthusiastic Programmer 
 <br>
 <br>
-# Coding Activity
+## Coding Activity
 <br>
 <br>
 <center>
