@@ -1,5 +1,6 @@
 # Felipe Lôbo
 ### Biologist, Enthusiastic Programmer 
+I am actually work with environmental conservation but at the same time I have been discovering a new whole world programming.
 <br>
 <br>
 
