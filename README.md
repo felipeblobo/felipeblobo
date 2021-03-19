@@ -9,7 +9,7 @@ I am actually work with environmental conservation but at the same time I have b
 	<table>
 		<tr>
 			<td>
-				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeblobo&layout=compact&theme=cobalt"/>
+				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeblobo&show_icons=true&langs_count=10&layout=compact&theme=cobalt&count_private=true"/>
 			</td>
 			<td>
 				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipeblobo&show_icons=true&theme=cobalt"/>
