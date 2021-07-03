@@ -1,6 +1,6 @@
 # Felipe Lôbo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bastos-l%C3%B4bo-silva-7b8380201/)](https://www.linkedin.com/in/felipe-bastos-l%C3%B4bo-silva-7b8380201/)
-### Biologist, Enthusiast Programmer 
+### Biologist and Programmer 
 I am currently working with environmental conservation but at the same time I have been discovering a new whole world programming. My focus is on FrontEnd Web Development, but I feel confortable in deal with NodeJs, Mysql, Postgres behind the scenes.
 <br>
 <br>
