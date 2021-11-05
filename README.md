@@ -1,7 +1,5 @@
 # Felipe Lôbo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-bastos-l%C3%B4bo-silva-7b8380201/)](https://www.linkedin.com/in/felipe-bastos-l%C3%B4bo-silva-7b8380201/)
-### Engenheiro de Software
-
 <br>
 <br>
 
