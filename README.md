@@ -10,7 +10,7 @@
 				<img width="400px" align="left" src="https://github-readme-stats-puce-eight-35.vercel.app/api/top-langs/?username=felipeblobo&show_icons=true&langs_count=10&layout=compact&theme=cobalt&count_private=true"/>
 			</td>
 			<td>
-				<img width="490px" align="left" src="https://github-readme-stats-puce-eight-35.vercel.app/api?username=felipeblobo&&count_private=true&show_icons=true&theme=cobalt"/>
+				<img width="490px" align="left" src="https://github-readme-stats-puce-eight-35.vercel.app/api?username=felipeblobo&&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true"/>
 			</td>
 		</tr>
 	</table>
